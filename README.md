@@ -61,8 +61,8 @@ print(f"Predicted Value:{pre}")
 ## Output:
 ![WhatsApp Image 2024-03-14 at 22 01 32_4e53d12d](https://github.com/Ashokanan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/160997973/729963f3-3ee4-440b-b355-fb27551367bc)
 
-![WhatsApp Image 2024-03-14 at 22 01 32_005f46e1](https://github.com/Ashokanan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/160997973/dfff6afc-5882-49dd-836b-e925bcd7fe4e)
 ![WhatsApp Image 2024-03-14 at 22 01 32_7341a512](https://github.com/Ashokanan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/160997973/53f638ed-7abb-4c0b-b510-9fab3e7691a3)
+![WhatsApp Image 2024-03-14 at 22 01 32_005f46e1](https://github.com/Ashokanan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/160997973/dfff6afc-5882-49dd-836b-e925bcd7fe4e)
 ![WhatsApp Image 2024-03-14 at 22 01 34_1fc4c579](https://github.com/Ashokanan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/160997973/e42a80a5-d788-4a71-94cb-5bbb5c51524d)
 ![WhatsApp Image 2024-03-14 at 22 01 34_446d8f44](https://github.com/Ashokanan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/160997973/193b474f-7e0d-4137-9d25-1c2cec4d9ded)
 ![WhatsApp Image 2024-03-14 at 22 01 34_052189f2](https://github.com/Ashokanan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/160997973/e6230a25-7916-428b-82ea-6bf229dc3862)
